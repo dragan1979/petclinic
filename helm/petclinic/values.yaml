@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: dragan979/petclinicimage
+  repository: dragan979/petclinic
   tag: latest
   pullPolicy: IfNotPresent
 
